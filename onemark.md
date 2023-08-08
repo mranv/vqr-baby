@@ -166,7 +166,7 @@ Sure, here are the questions and their solutions:
 
 **A. Fill in the Blanks:**
 
-a. The numbers which are not prime are **composite numbers**.
+u. a. The numbers which are not prime are **composite numbers**.
 
 b. The L.C.M of 2/3, 8/9, and 4/6 is **2/3**.
 
