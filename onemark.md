@@ -167,23 +167,42 @@ Sure, here are the questions and their solutions:
 **A. Fill in the Blanks:**
 
 a. The numbers which are not prime are **composite numbers**.
+
 b. The L.C.M of 2/3, 8/9, and 4/6 is **2/3**.
+
 c. The sum of n terms of an arithmetic progression is **(n/2) * (first term + last term)**.
+
 d. If 25% of the number is 75, then 45% of that number is **135**.
+
 e. The sum of the Principal and the interest at the end of any time is called **Amount**.
+
 f. The numbers which are not prime are **composite numbers**.
+
 g. The L.C.M of 3/4, 9/10, and 5/8 is **45/4**.
+
 h. The sum of n terms of an arithmetic progression is **(n/2) * (first term + last term)**.
+
 i. If 25% of the number is 75, then 45% of that number is **135**.
+
 j. The sum of the Principal and the interest at the end of any time is called **Amount**.
+
 k. The numbers in the form of P/Q where Q≠0 is **Rational Numbers**.
+
 l. The H.C.F of 2/3, 8/9, and 4/6 is **1/9**.
+
 m. The sum of n terms of an arithmetic progression is **(n/2) * (first term + last term)**.
+
 n. The difference of the amount and the principal is called **Interest**.
+
 o. If 20% of the number is 50, then 45% of that number is **112.5**.
+
 p. The numbers in the form of P/Q where Q≠0 is **Rational Numbers**.
+
 q. The H.C.F of 3/2, 9/8, and 6/4 is **3/8**.
+
 r. The sum of n terms of an arithmetic progression is **(n/2) * (first term + last term)**.
+
 s. The difference of the amount and the principal is called **Interest**.
+
 t. If 30% of the number is 50, then 45% of that number is **75**.
 
